@@ -1,0 +1,21 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "Sample node app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^9.0.1",
+    "koa": "^2.12.1"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "supertest": "^4.0.2"
+  }
+}
